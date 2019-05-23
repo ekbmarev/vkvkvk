@@ -1,0 +1,40 @@
+
+.thumb-past-container > button {
+    background: #ffe43e;
+    color: black;
+    width: 50%;
+}
+
+.thumb-past-container > span {
+    align-items: right;
+    margin-left: 30px;
+    color: #76787a;
+    vertical-align: center;
+}
+
+.thumb-past-icon {
+    color: #99a2ad !important;
+    margin-right: 5px;
+    margin-bottom: -2px;
+    vertical-align: center;
+}
+
+.win-header {
+    text-align: center;
+    color: white;
+}
+
+.win-share-btn {
+    background: #ffe43e;
+}
+
+.win-share-btn .Button__content{
+    color: black;
+    font-weight: 650 !important;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.win-panel .Panel__in {
+    background-image: url('../../img/background_win.png');
+}

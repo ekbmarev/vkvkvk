@@ -1,0 +1,32 @@
+#label_14 {
+    color: #7ed084;
+}
+
+.icon-span {
+    font-size: 14px;
+}
+
+.product-stat {
+    width: 33.33%;
+    display: inline-block;
+    padding: 0px;
+    text-align: center;
+}
+
+.product-stat span {
+    font-weight: 600;
+}
+
+.product-stat .Cell__description {
+    color: black;
+}
+
+.garant-title {
+    color: #909499;
+    text-transform: uppercase;
+}
+
+.garant-description {
+    white-space: normal;
+    font-size: 17px;
+}

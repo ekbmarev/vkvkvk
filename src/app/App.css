@@ -1,0 +1,34 @@
+:root {
+    --checkpot: #7ed084;
+    --header_background: #7ed084;
+    --button_primary_background: #7ed084;
+}
+
+.ActionSheetItem--default {
+    color: var(--checkpot) !important;
+}
+
+.TabbarItem--selected {
+    color: #7ed084;
+}
+
+img.logo {
+    vertical-align: middle;
+}
+
+.button-icon {
+    margin-right: 10px;
+    vertical-align: bottom;
+}
+
+.Alert {
+    width: 90%;
+}
+
+.Alert__content {
+    font-size: 14px;
+}
+
+.Alert__btn--cancel {
+    color: #7ed084 !important;
+}
